@@ -2,6 +2,10 @@
 
 **A resilient, agentic ETL pipeline designed to ingest complex, semi-structured E-commerce JSON data.**
 
+📊 **[View Project Presentation (Architecture & Design)](https://docs.google.com/presentation/d/1Ffy6olPfLao1BDbxxt5ChNYvj7OpziGRR29O37wdm7g/edit?usp=sharing)**
+
+---
+
 ## 🚀 Overview
 This project demonstrates a **Next-Gen Data Engineering** approach where the pipeline doesn't just execute hard-coded rules—it *thinks*. 
 
